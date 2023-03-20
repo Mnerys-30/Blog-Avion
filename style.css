@@ -1,0 +1,32 @@
+   
+    
+    .card {
+        background-color: rgb(252, 237, 219);
+        border:solid 1px black;
+    }
+
+   .video  {
+        position: fixed;
+        right: 0;
+        bottom: 0;
+        min-width: 100%;
+        min-height: 100%;
+        width: 100%;
+        height: auto;
+        z-index: -1;
+    }
+
+    .block {
+        background-color: rgb(252, 237, 219) !important;
+        border-radius: 5px;
+        padding: 1em;
+        box-shadow: 0 7px 7px 0 rgb(176, 175, 173, 0.7);
+    
+    }
+
+   .card-img-top {
+        box-shadow: 0 7px 7px 0 rgb(176, 175, 173, 0.7);
+
+    }
+
+  
